@@ -1,2 +1,2 @@
-# breakout
+# Breakout
 I made an actual game in python for the first time! It's a breakout clone...
